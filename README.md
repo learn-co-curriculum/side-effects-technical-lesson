@@ -89,7 +89,7 @@ Use **Git** to track each step. Make small commits with clear messages. This ens
 
 ### Step 1: Fork, Clone, and Create a New Git Branch
 
-1. **Fork** and **clone** the repository (or create a new React app locally).  
+1. **Fork** and **clone** the repository https://github.com/learn-co-curriculum/side-effects-technical-lesson.git (or create a new React app locally).  
 2. **Open** your terminal and navigate into the project folder.  
 3. **Create** and switch to a new branch:
 ```bash
