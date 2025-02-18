@@ -24,7 +24,7 @@ function App() {
   // 3. TODO: useEffect to set up a window event listener (e.g., for clicks)
   //    - Return a cleanup function to remove the event listener on unmount.
   return (<div>
-    <p>Don't worry the app is running!</p>
+    <p> app is running!</p>
   </div>
   );
 
